@@ -6,6 +6,7 @@ module.exports = {
       colors: {
         'kinsta-dark-blue': '#101319',
         'kinsta-shadow': '#373D4A',
+        'kinsta-blur':'#3D6BF4'
       },
     },
   },
